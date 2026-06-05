@@ -87,9 +87,3 @@ void process_rooms();
 
 #endif
 
-
-
-
-void process_rooms();
-
-#endif
